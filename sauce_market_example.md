@@ -12,11 +12,12 @@ We should provide information on the market size, competitors, market share and 
 
 The most important information we can provide are insights related with each particular industry. Some key variables are
 
-+ Market size: Determine the size of the market you are entering, including its potential for growth, current trends, and future projections. This data will help you identify the market's potential, demand, and competition.
-
-+ Trade flows: is it a priimary, secondary or thirdiary activity? How is the production chain linked?
-
-+ Competitor analysis: Analyze the current market and identify  competitors in the industry. Maybe there are a few, maybe we are facing a monopolistic market. Look at their strengths, weaknesses, pricing strategies, and distribution channels.
++ Market size:
++ Exports
++ Imports
++ Market growth
++ Index of complexity
++ Map of related products
 
 Key data:
 + Trade balance to see exports/imports of sauce and related products
@@ -32,10 +33,8 @@ Finantial reports from competitors or realted industries
 
 After providing a clear picture of the industry landscape we can provide insights on the demand and supply.
 
-+ Consumer behavior: Analyze consumer behavior and preferences related to the product, such as packaging design, flavor profiles, and pricing. This data can help design products and marketing strategy to attract and retain customers.
-
-+ Market demand: Look for data on the market demand the product and related products.
-
++ Consumer preferences and demand inference from ENCO and ENIG
++ Demand flows from trade matrix
 
 Key data:
 + ENCO
@@ -50,13 +49,12 @@ Future data
 
 ### Supply
 
-For the supply we can identify producer states of the supplies and then find out dat
+For the supply we can identify producer states of the supplies and then find out variables, indicators and index from those places:
 
-+ Supplies: Identify the raw materials needed: availability, quality, and cost. This helps on planning a supply chain and pricing strategy.
++ labour data
++ housing loans data
++ CPI data for each related product
 
-+ Production costs: Determine the cost of production including labor, packaging, and transportation costs. This data will help you set your pricing strategy and determine your profit margins.
-
-+ Startup costs: Estimate the costs of starting and running your business, including equipment, inventory, rent, employee salaries, and marketing expenses. This data will help you create a realistic budget.
 
 Key data:
 
