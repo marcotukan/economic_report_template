@@ -2,8 +2,11 @@
 
 This is a proposal for the possible content that a sauce market report should have.
 
+___
 
 ## Market structure
+
+We should provide information on the market size, competitors, market share and insights about supply and demand. A good example is found here https://oec.world/es/profile/bilateral-product/sauces-and-seasonings/reporter/mex
 
 ### General structure
 
@@ -18,6 +21,7 @@ The most important information we can provide are insights related with each par
 Key data:
 + Trade balance to see exports/imports of sauce and related products
 + National Accounts and GDP by activity to see the size of related activities (agricultral and industrial)
++ INEGI trade matrix
 
 Future data:
 We can scrap sectorial data from this side which has a pretty good summary on the sauce market in Mexico.
@@ -35,6 +39,8 @@ After providing a clear picture of the industry landscape we can provide insight
 
 Key data:
 + ENCO
++ INEGI trade matrix
+
 
 Future data
 + ENIGH: https://www.inegi.org.mx/rnm/index.php/catalog/685/variable/F16/V1196?name=clave
@@ -56,7 +62,7 @@ Key data:
 
 + Infraestructure of Education
 + Construction costs Index
-+ CPI 
++ CPI for related products
 
 Future data
 
@@ -94,7 +100,7 @@ Future data:
 
 + Industry regulations: Research the regulations and laws that apply to your industry, including licenses, permits, taxes, and other compliance requirements.
 
-+ Security data
++ Security and crime data
 
 + Political stability
 
